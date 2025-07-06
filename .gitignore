@@ -4,3 +4,4 @@ manifest.*
 package*
 .DS_Store
 target/*
+quickstart.md
