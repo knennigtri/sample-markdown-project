@@ -3,3 +3,4 @@ theme/*
 manifest.*
 package*
 .DS_Store
+target/*
